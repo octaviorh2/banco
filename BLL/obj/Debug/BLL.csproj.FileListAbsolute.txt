@@ -1,0 +1,10 @@
+C:\Users\HP\Desktop\programacio3\proyectos vacaciones\Pulsaciones-estructurada\BLL\bin\Debug\BLL.dll
+C:\Users\HP\Desktop\programacio3\proyectos vacaciones\Pulsaciones-estructurada\BLL\bin\Debug\BLL.pdb
+C:\Users\HP\Desktop\programacio3\proyectos vacaciones\Pulsaciones-estructurada\BLL\bin\Debug\DAL.dll
+C:\Users\HP\Desktop\programacio3\proyectos vacaciones\Pulsaciones-estructurada\BLL\bin\Debug\ENTYTI.dll
+C:\Users\HP\Desktop\programacio3\proyectos vacaciones\Pulsaciones-estructurada\BLL\bin\Debug\DAL.pdb
+C:\Users\HP\Desktop\programacio3\proyectos vacaciones\Pulsaciones-estructurada\BLL\bin\Debug\ENTYTI.pdb
+C:\Users\HP\Desktop\programacio3\proyectos vacaciones\Pulsaciones-estructurada\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\programacio3\proyectos vacaciones\Pulsaciones-estructurada\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\HP\Desktop\programacio3\proyectos vacaciones\Pulsaciones-estructurada\BLL\obj\Debug\BLL.dll
+C:\Users\HP\Desktop\programacio3\proyectos vacaciones\Pulsaciones-estructurada\BLL\obj\Debug\BLL.pdb

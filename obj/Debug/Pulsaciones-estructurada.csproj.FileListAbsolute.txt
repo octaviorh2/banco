@@ -1,0 +1,13 @@
+C:\Users\HP\Desktop\programacio3\proyectos vacaciones\Pulsaciones-estructurada\obj\Debug\Pulsaciones-estructurada.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\programacio3\proyectos vacaciones\Pulsaciones-estructurada\bin\Debug\Pulsaciones-estructurada.exe.config
+C:\Users\HP\Desktop\programacio3\proyectos vacaciones\Pulsaciones-estructurada\bin\Debug\Pulsaciones-estructurada.exe
+C:\Users\HP\Desktop\programacio3\proyectos vacaciones\Pulsaciones-estructurada\bin\Debug\Pulsaciones-estructurada.pdb
+C:\Users\HP\Desktop\programacio3\proyectos vacaciones\Pulsaciones-estructurada\obj\Debug\Pulsaciones-estructurada.exe
+C:\Users\HP\Desktop\programacio3\proyectos vacaciones\Pulsaciones-estructurada\obj\Debug\Pulsaciones-estructurada.pdb
+C:\Users\HP\Desktop\programacio3\proyectos vacaciones\Pulsaciones-estructurada\bin\Debug\BLL.dll
+C:\Users\HP\Desktop\programacio3\proyectos vacaciones\Pulsaciones-estructurada\bin\Debug\ENTYTI.dll
+C:\Users\HP\Desktop\programacio3\proyectos vacaciones\Pulsaciones-estructurada\bin\Debug\BLL.pdb
+C:\Users\HP\Desktop\programacio3\proyectos vacaciones\Pulsaciones-estructurada\bin\Debug\ENTYTI.pdb
+C:\Users\HP\Desktop\programacio3\proyectos vacaciones\Pulsaciones-estructurada\obj\Debug\Pulsaciones-estructurada.csproj.CopyComplete
+C:\Users\HP\Desktop\programacio3\proyectos vacaciones\Pulsaciones-estructurada\bin\Debug\DAL.dll
+C:\Users\HP\Desktop\programacio3\proyectos vacaciones\Pulsaciones-estructurada\bin\Debug\DAL.pdb

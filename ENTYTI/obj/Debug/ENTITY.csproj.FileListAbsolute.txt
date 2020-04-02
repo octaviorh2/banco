@@ -1,0 +1,5 @@
+C:\Users\HP\Desktop\programacio3\proyectos vacaciones\Pulsaciones-estructurada\ENTYTI\bin\Debug\ENTYTI.dll
+C:\Users\HP\Desktop\programacio3\proyectos vacaciones\Pulsaciones-estructurada\ENTYTI\bin\Debug\ENTYTI.pdb
+C:\Users\HP\Desktop\programacio3\proyectos vacaciones\Pulsaciones-estructurada\ENTYTI\obj\Debug\ENTYTI.dll
+C:\Users\HP\Desktop\programacio3\proyectos vacaciones\Pulsaciones-estructurada\ENTYTI\obj\Debug\ENTYTI.pdb
+C:\Users\HP\Desktop\programacio3\proyectos vacaciones\Pulsaciones-estructurada\ENTYTI\obj\Debug\ENTITY.csprojAssemblyReference.cache
